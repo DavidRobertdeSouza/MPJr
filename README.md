@@ -1,6 +1,8 @@
 # Página de Lista de Motoboys e Código JS para procura de usuário
 
-Essa é uma página para listar todas as informações dos motoboys cadastrados, além disso, você poderá verificar as informações adicionais dos motoboys e apagar algum usuário da lista.
+Essa é uma página para listar todas as informações dos motoboys cadastrados, além disso, você poderá verificar as informações adicionais dos motoboys, apagar algum usuário da lista e tambem ordenar a lista.
+
+Ela também conta com um design responsivo, ou seja, poderá ser utilizada em dispositivos desktops e dispositivos móveis.
 
 Essa página foi desenvolvida utilizando apenas HTML, CSS e JavaScript, sem nenhum framework para o desenvolvimento.
 
